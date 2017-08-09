@@ -12,3 +12,5 @@ C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\System.Web.Http.xml
 C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\System.Web.Http.Cors.xml
 C:\Data Temp\Git\VS_Swagger\libTools\obj\Debug\libTools.dll
 C:\Data Temp\Git\VS_Swagger\libTools\obj\Debug\libTools.pdb
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\Microsoft.Rest.ClientRuntime.xml

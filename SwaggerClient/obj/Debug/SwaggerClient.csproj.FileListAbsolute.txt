@@ -5,3 +5,15 @@ C:\Data Temp\Git\VS_Swagger\SwaggerClient\obj\Debug\SwaggerClient.Properties.Res
 C:\Data Temp\Git\VS_Swagger\SwaggerClient\obj\Debug\SwaggerClient.csproj.GenerateResource.Cache
 C:\Data Temp\Git\VS_Swagger\SwaggerClient\obj\Debug\SwaggerClient.exe
 C:\Data Temp\Git\VS_Swagger\SwaggerClient\obj\Debug\SwaggerClient.pdb
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\bin\Debug\libTools.dll
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\bin\Debug\Newtonsoft.Json.dll
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\bin\Debug\Swashbuckle.Core.dll
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\bin\Debug\System.Web.Http.dll
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\bin\Debug\libTools.pdb
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\bin\Debug\Newtonsoft.Json.xml
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\bin\Debug\System.Web.Http.xml
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\obj\Debug\SwaggerClient.csprojResolveAssemblyReference.cache
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\obj\Debug\SwaggerClient.Form1.resources

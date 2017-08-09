@@ -159,3 +159,5 @@ C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.DependencyCollector.xml
 C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.WindowsServer.xml
 C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.Web.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.Rest.ClientRuntime.xml
