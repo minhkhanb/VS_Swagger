@@ -1,0 +1,161 @@
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\ApplicationInsights.config
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\csc.exe
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\csc.exe.config
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\csc.rsp
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\csi.exe
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\csi.rsp
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\System.AppContext.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\System.Collections.Immutable.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\System.IO.FileSystem.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\vbc.exe
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\vbc.exe.config
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\vbc.rsp
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\VBCSCompiler.exe
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\roslyn\VBCSCompiler.exe.config
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Swagger.dll.config
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Swagger.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Swagger.pdb
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Antlr3.Runtime.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.AI.Web.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.AI.WindowsServer.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.ApplicationInsights.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.Web.Infrastructure.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Newtonsoft.Json.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Net.Http.Formatting.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Helpers.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Http.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Http.WebHost.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Mvc.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Optimization.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Razor.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.WebPages.Deployment.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.WebPages.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.WebPages.Razor.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\WebGrease.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Newtonsoft.Json.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Net.Http.Formatting.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Helpers.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Http.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Http.WebHost.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Mvc.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Optimization.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Razor.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.WebPages.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.WebPages.Deployment.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.WebPages.Razor.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Antlr3.Runtime.pdb
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.ApplicationInsights.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.AI.WindowsServer.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Microsoft.AI.Web.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\obj\Debug\Swagger.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\obj\Debug\Swagger.pdb
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Swagger.xml
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Swashbuckle.Core.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\Swashbuckle.WebHost.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Cors.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Http.Cors.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\WebActivatorEx.dll
+c:\users\khale\documents\visual studio 2017\Projects\Swagger\Swagger\bin\System.Web.Http.Cors.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Swagger.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\obj\Debug\Swagger.csprojResolveAssemblyReference.cache
+C:\Data Temp\Git\VS_Swagger\Swagger\obj\Debug\Swagger.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\obj\Debug\Swagger.pdb
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\ApplicationInsights.config
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\csc.exe
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\csc.exe.config
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\csc.rsp
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\csi.exe
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\csi.rsp
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\System.AppContext.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\System.Collections.Immutable.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\System.IO.FileSystem.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\vbc.exe
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\vbc.exe.config
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\vbc.rsp
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\VBCSCompiler.exe
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\roslyn\VBCSCompiler.exe.config
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Swagger.dll.config
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Swagger.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Swagger.pdb
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Antlr3.Runtime.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\libTools.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.DependencyCollector.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.Web.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.WindowsServer.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.ApplicationInsights.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.Web.Infrastructure.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Newtonsoft.Json.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Swashbuckle.Core.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Swashbuckle.WebHost.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Net.Http.Formatting.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Cors.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Helpers.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Http.Cors.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Http.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Http.WebHost.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Mvc.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Optimization.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Razor.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.WebPages.Deployment.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.WebPages.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.WebPages.Razor.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\WebActivatorEx.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\WebGrease.dll
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\libTools.pdb
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Http.Cors.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Newtonsoft.Json.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Net.Http.Formatting.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Helpers.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Http.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Http.WebHost.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Mvc.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Optimization.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.Razor.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.WebPages.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.WebPages.Deployment.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\System.Web.WebPages.Razor.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Antlr3.Runtime.pdb
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.ApplicationInsights.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.DependencyCollector.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.WindowsServer.xml
+C:\Data Temp\Git\VS_Swagger\Swagger\bin\Microsoft.AI.Web.xml

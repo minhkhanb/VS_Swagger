@@ -1,0 +1,7 @@
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\bin\Debug\SwaggerClient.exe.config
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\bin\Debug\SwaggerClient.exe
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\bin\Debug\SwaggerClient.pdb
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\obj\Debug\SwaggerClient.Properties.Resources.resources
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\obj\Debug\SwaggerClient.csproj.GenerateResource.Cache
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\obj\Debug\SwaggerClient.exe
+C:\Data Temp\Git\VS_Swagger\SwaggerClient\obj\Debug\SwaggerClient.pdb

@@ -1,0 +1,14 @@
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\libTools.dll
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\libTools.pdb
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\Newtonsoft.Json.dll
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\Swashbuckle.Core.dll
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\System.Net.Http.Formatting.dll
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\System.Web.Cors.dll
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\System.Web.Http.Cors.dll
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\System.Web.Http.dll
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\Newtonsoft.Json.xml
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\System.Net.Http.Formatting.xml
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\System.Web.Http.xml
+C:\Data Temp\Git\VS_Swagger\libTools\bin\Debug\System.Web.Http.Cors.xml
+C:\Data Temp\Git\VS_Swagger\libTools\obj\Debug\libTools.dll
+C:\Data Temp\Git\VS_Swagger\libTools\obj\Debug\libTools.pdb
