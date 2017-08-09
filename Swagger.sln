@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerClient", "SwaggerCli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libTools", "libTools\libTools.csproj", "{234DA24A-4799-489E-BC22-627F38F5E52A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F28BCE34-933E-4350-AD41-A0C95AFC7E72}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\KhaLe\Desktop\v1 = ..\..\..\Users\KhaLe\Desktop\v1
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

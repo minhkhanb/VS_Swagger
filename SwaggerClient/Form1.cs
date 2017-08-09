@@ -44,7 +44,7 @@ namespace SwaggerClient
         private void cmdUpdate_Click(object sender, EventArgs e)
         {
             SvcRestClient client =
-                  new SvcRestClient(new Uri("http://localhost/webDemo"),
+                  new SvcRestClient(new Uri("http://localhost/swagger"),
                     new AnonymousCredential());
             client.Values.PutByidvalue(1, "new value");
             MessageBox.Show("change completed");
